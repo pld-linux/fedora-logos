@@ -1,5 +1,5 @@
 Summary:	Red Hat-related icons and pictures
-Summary(pl):	Ikony i obrazki zwiÄ…zane z Red Hatem
+Summary(pl):	Ikony i obrazki zwi±zane z Red Hatem
 Name:		fedora-logos
 Version:	1.1.42
 Release:	0.1
@@ -25,13 +25,13 @@ See the included COPYING file for information on copying and
 redistribution.
 
 %description -l pl
-Pakiet fedora-logos ("Packages") zawiera pliki obrazÃ³w zawierajÄ…cych
+Pakiet fedora-logos ("Packages") zawiera pliki obrazów zawieraj±cych
 znak towarowy Fedory i logo RPM-a ("Marks"). Marks to znaki towarowe
-lub zastrzeÅ¼one znaki towarowe firmy Red Hat Inc. w Stanach
-Zjednoczonych i innych krajach; uÅ¼yte sÄ… za zgodÄ….
+lub zastrze¿one znaki towarowe firmy Red Hat Inc. w Stanach
+Zjednoczonych i innych krajach; u¿yte s± za zgod±.
 
-Informacje na temat kopiowania i redystrybucji moÅ¼na znaleÅºÄ‡ w
-zaÅ‚Ä…czonym pliku COPYING.
+Informacje na temat kopiowania i redystrybucji mo¿na znale¼æ w
+za³±czonym pliku COPYING.
 
 %prep
 %setup -q
