@@ -1,5 +1,5 @@
 Summary:	Red Hat-related icons and pictures
-Summary(pl.UTF-8):   Ikony i obrazki związane z Red Hatem
+Summary(pl.UTF-8):	Ikony i obrazki związane z Red Hatem
 Name:		fedora-logos
 Version:	1.1.42
 Release:	0.1
